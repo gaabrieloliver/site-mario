@@ -1,0 +1,25 @@
+body {
+  font-family: "Poppins";
+}
+
+.cabecalho {
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cabecalho .menu {
+  display: flex;
+  gap: 2vh;
+}
+
+.cabecalho .logo {
+  width: 20vh;
+  align-items: center;
+}
+
+.cabecalho li {
+  width: 100%;
+  
+}
